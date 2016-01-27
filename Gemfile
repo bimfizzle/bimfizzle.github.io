@@ -1,6 +1,5 @@
-ruby '2.2.2'
+ruby '2.3.0'
 
 source 'http://rubygems.org'
 
 gem 'github-pages'
-gem 'jekyll-haml'
